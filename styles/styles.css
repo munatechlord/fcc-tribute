@@ -1,0 +1,25 @@
+html{
+ background-color: teal;
+}
+#image {
+    position: center;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+   
+}
+
+#name {
+    text-align: center;
+}
+
+#tribute-info {
+    justify-content: center;
+}
+
+#img-caption {
+    justify-content: center;
+
+}
+
